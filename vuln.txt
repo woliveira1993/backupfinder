@@ -1,2 +1,2 @@
 https://www.exemplo.gov.br/phpmyadmin
-https://www.camarapatos.gov.br/phpmyadmin
+https://www.exemplo.gov.br/phpmyadmin
